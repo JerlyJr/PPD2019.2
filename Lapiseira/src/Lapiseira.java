@@ -10,6 +10,15 @@ public class Lapiseira {
 
     }
 
+    @Override
+    public String toString() {
+        return "Lapiseira{" +
+                "marca='" + marca + '\'' +
+                ", ponta=" + ponta +
+                ", grafite=" + grafite +
+                '}';
+    }
+
     public String getMarca() {
         return marca;
     }
@@ -35,7 +44,7 @@ public class Lapiseira {
     }
 
     public void escrever(int quantidade){
-        if (grafite.getTamanhoGrafite() > quantidade){
+        if (grafite.getTamanhoGrafite() >= quantidade){
             grafite.setTamanhoGrafite(-quantidade);
             System.out.println("escrevendo...");
 
@@ -44,7 +53,11 @@ public class Lapiseira {
         }
     }
     public void colocarGrafite(double ponta, int tamanho){
-        grafite.setTamanhoGrafite(tamanho);
-        grafite.setPonta(ponta);
+        if (grafite.getPonta() == this.ponta){
+            grafite.setTamanhoGrafite(tamanho);
+            grafite.setPonta(ponta);
+        }else{
+            System.out.println("ponta do grafite Incompatível");
+        }
     }
 }
