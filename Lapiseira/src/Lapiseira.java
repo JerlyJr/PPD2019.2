@@ -6,8 +6,8 @@ public class Lapiseira {
     public Lapiseira(String marca, double ponta, int tamanhoGrafite){
         this.marca = marca;
         this.ponta = ponta;
-        grafite.setTamanhoGrafite(tamanhoGrafite);
-        grafite.setPonta(ponta);
+        this.grafite = null;
+
     }
 
     public String getMarca() {
@@ -44,8 +44,7 @@ public class Lapiseira {
         }
     }
     public void colocarGrafite(double ponta, int tamanho){
-
-        setPonta(ponta);
-        setTamanhoGrafite(tamanho);
+        grafite.setTamanhoGrafite(tamanho);
+        grafite.setPonta(ponta);
     }
 }
