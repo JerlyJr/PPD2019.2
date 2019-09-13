@@ -1,12 +1,14 @@
+import java.util.ArrayList;
+
 public class Lapiseira {
     private String marca;
     private double ponta;
-    private Grafite grafite;
+    private ArrayList<Grafite> grafite;
 
     public Lapiseira(String marca, double ponta, int tamanhoGrafite){
         this.marca = marca;
         this.ponta = ponta;
-        this.grafite = null;
+        this.grafite.add(null);
 
     }
 
@@ -15,7 +17,7 @@ public class Lapiseira {
         return "Lapiseira{" +
                 "marca='" + marca + '\'' +
                 ", ponta=" + ponta +
-                ", grafite=" + grafite +
+                ", grafite=" + (grafite.size() - 1)  +
                 '}';
     }
 
@@ -44,7 +46,7 @@ public class Lapiseira {
     }
 
     public void escrever(int quantidade){
-        if (grafite.getTamanhoGrafite() >= quantidade){
+        if (quantidade < grafite.){
             grafite.setTamanhoGrafite(-quantidade);
             System.out.println("escrevendo...");
 
@@ -53,9 +55,8 @@ public class Lapiseira {
         }
     }
     public void colocarGrafite(double ponta, int tamanho){
-        if (grafite.getPonta() == this.ponta){
-            grafite.setTamanhoGrafite(tamanho);
-            grafite.setPonta(ponta);
+        if (this.ponta == grafite.indexOf(ponta)){
+            grafite.add(new Grafite(ponta,tamanho));
         }else{
             System.out.println("ponta do grafite Incompatível");
         }
