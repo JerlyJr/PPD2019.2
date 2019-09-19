@@ -2,25 +2,26 @@ public class Item {
    private String nome;
    private int valorDeDefesa;
    private int pontosDeVida;
-   private int preco;
+   private int durabilidade;
 
    public Item(){
 
    }
 
-   public Item(String nome, int valorDeDefesa, int pontosDeVida, int preco){
+   public Item(String nome, int valorDeDefesa, int pontosDeVida, int durabilidade){
        this.nome = nome;
        this.valorDeDefesa = valorDeDefesa;
        this.pontosDeVida = pontosDeVida;
-       this.preco = preco;
+       this.durabilidade = durabilidade;
    }
 
     @Override
     public String toString() {
-        return "nome: " + nome + "\n" +
+        return "\n" +
+                "Nome: " + nome + "\n" +
                 "Defesa: " + valorDeDefesa +"\n"+
-                "Pontos de Vida:" + pontosDeVida +"\n"+
-                "preço: " + preco;
+                "Pontos de Vida: " + pontosDeVida +"\n"+
+                "Durabilidade: " + durabilidade + "\n";
     }
 
     public String getNome() {
@@ -47,11 +48,11 @@ public class Item {
         this.pontosDeVida = pontosDeVida;
     }
 
-    public int getPreco() {
-        return preco;
+    public int getDurabilidade() {
+        return durabilidade;
     }
 
-    public void setPreco(int preco) {
-        this.preco = preco;
+    public void setDurabilidade(int durabilidade) {
+        this.durabilidade = durabilidade;
     }
 }
