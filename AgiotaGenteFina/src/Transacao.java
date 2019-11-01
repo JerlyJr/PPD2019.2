@@ -1,4 +1,4 @@
-public class Transacao String{
+public class Transacao {
     int id;
     String clienteId;
     int valor;
