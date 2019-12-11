@@ -17,7 +17,7 @@ public class Controlador {
                 User seguidor = service.getUser(ui[1]);
                 for(int i = 2; i < ui.length; i++)
                     seguidor.seguir(service.getUser(ui[i]));
-            }else if(ui[0].contentEquals("twittar")) {//login messagem
+            }else if(ui[0].contentEquals("twittar")) {
                 String message = "";
                 for(int i = 2; i < ui.length; i++)
                     message += ui[i] + " ";

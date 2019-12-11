@@ -2,36 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1f9aa5-a564-41db-8b2c-b80abb5d2fde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Testando o observador/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testando o observador/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testando o observador/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testando o observador/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testando o observador/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testando o observador/Testando o observador.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testando o observador/src/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testando o observador/src/Historico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Testando o observador/src/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controlador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/Whatsapv1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/Historico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/Nome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AgiotaGenteFina/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AgiotaGenteFina/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatsapv1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/Zap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testando o observador/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testando o observador/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repositório.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repositório.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tweet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Usuário.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controlador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Whatsapv1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Whatsapv1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Whatsapv1/src/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Whatsapv1/src/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Whatsapv1/src/Historico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Whatsapv1/src/Historico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Whatsapv1/src/Nome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Whatsapv1/src/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Whatsapv1/src/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Whatsapv1/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Whatsapv1/src/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Repositório.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="43" column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="442">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#204#205#0" expanded="true" />
@@ -63,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="289">
+              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#493#494#0" expanded="true" />
@@ -78,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/src/Service.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
               <folding>
                 <element signature="e#80#81#0" expanded="true" />
                 <element signature="e#143#144#0" expanded="true" />
@@ -106,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controlador.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="731">
+              <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -138,11 +121,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="608" />
-    <option name="y" value="68" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -150,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,11 +149,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573768375932" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Whatsapv1" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,10 +197,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="699" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -248,8 +232,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Repositório.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="43" column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="442">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#204#205#0" expanded="true" />
@@ -258,35 +242,6 @@
             <element signature="e#318#319#0" expanded="true" />
             <element signature="e#933#934#0" expanded="true" />
             <element signature="e#974#975#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-          <folding>
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -302,10 +257,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Controlador.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="731">
+          <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
         </state>
       </provider>
     </entry>
