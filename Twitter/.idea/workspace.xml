@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1f9aa5-a564-41db-8b2c-b80abb5d2fde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/EventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatsapv1/src/Zap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testando o observador/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testando o observador/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgendaTelefonica2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgendaTelefonica2/AgendaTelefonica2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgendaTelefonica2/src/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgendaTelefonica2/src/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgendaTelefonica2/src/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgendaTelefonica2/src/Fone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AgendaTelefonica2/src/Repository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controlador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Whatsapv1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Whatsapv1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Whatsapv1/src/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Whatsapv1/src/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Whatsapv1/src/Historico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Whatsapv1/src/Historico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Whatsapv1/src/Nome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Whatsapv1/src/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Whatsapv1/src/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Whatsapv1/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Whatsapv1/src/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="340">
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#493#494#0" expanded="true" />
@@ -92,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controlador.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+            <state relative-caret-position="391">
+              <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -122,10 +119,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="699" />
-    <option name="height" value="744" />
+    <option name="x" value="-7" />
+    <option name="width" value="708" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -133,6 +129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,12 +147,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573768375932" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576171330361" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Whatsapv1" />
   </component>
   <component name="RunDashboard">
@@ -197,10 +193,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="699" height="744" extended-state="0" />
+    <frame x="-7" y="0" width="708" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5324074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -230,29 +226,14 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Repositório.java">
+    <entry file="file://$PROJECT_DIR$/src/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="340">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tweet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -274,22 +255,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/User.java">
+    <entry file="file://$PROJECT_DIR$/src/Tweet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repositório.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controlador.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+        <state relative-caret-position="391">
+          <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
         </state>
       </provider>
     </entry>
